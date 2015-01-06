@@ -1,0 +1,6 @@
+nbproject/
+public_html/css/*.css
+public_html/css/*.map
+*~
+public_html/font-awesome-4.2.0/css/
+public_html/index.html
