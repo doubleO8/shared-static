@@ -1,3 +1,6 @@
 [submodule "yuicompressor"]
 	path = yuicompressor
 	url = https://github.com/yui/yuicompressor.git
+[submodule "swagger-ui"]
+	path = swagger-ui
+	url = https://github.com/swagger-api/swagger-ui.git
