@@ -1,4 +1,7 @@
 nbproject/
+.project
+.pydevproject
+
 #public_html/css/*.css
 public_html/css/*.map
 *~
