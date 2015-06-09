@@ -3,7 +3,8 @@ nbproject/
 .pydevproject
 
 #public_html/css/*.css
-public_html/css/*.map
+*.css.map
+.sass-cache/
 *~
 public_html/font-awesome-4.2.0/css/
 #public_html/index.html
